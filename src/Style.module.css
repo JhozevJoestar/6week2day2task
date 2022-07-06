@@ -1,0 +1,248 @@
+.app {
+    width: 768px;
+    height: 850px;
+}
+
+.header {
+    width: 768px;
+    height: 82px;
+    display: flex;
+}
+
+
+.counter {
+    width: 199px;
+    height: 82px;
+    text-align: left;
+    font-size: 39px;
+}
+
+
+.counterIn {
+    width: 119px;
+    height: 47px;
+    margin-left: 55px;
+    text-align: left;
+    font-size: 39px;
+    color: rgba(242, 124, 15, 1);
+    margin-top: -60px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    margin-top: 17px;
+}
+
+
+.links {
+    width: 569px;
+    height: 82px;
+    display: flex;
+    justify-content: left;
+}
+
+
+
+
+.linksIn {
+    width: 321px;
+    height: 82px;
+    margin-left: 247px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.links1 {
+    width: 90px;
+    height: 28px;
+    text-align: center;
+    color: blue;
+    font-size: 24px;
+}
+
+
+
+.links2 {
+    width: 68px;
+    height: 28px;
+    text-align: center;
+    color: blue;
+    font-size: 24px;
+}
+
+
+.links3 {
+    width: 106px;
+    height: 28px;
+    text-align: center;
+    color: blue;
+    font-size: 24px;
+}
+
+
+
+.MainContent {
+    width: 768px;
+    height: 631px;
+    padding-top: 39px;
+}
+
+
+.Number {
+    width: 585px;
+    height: 318px;
+    margin-left: 93px;
+    font-size: 288px;
+    text-align: center;
+    color: rgba(242, 124, 15, 1);
+}
+
+
+
+
+.Buttons {
+    width: 742px;
+    height: 116px;
+    margin-left: 13px;
+    margin-bottom: 185px;
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.Button1 {
+    width: 200px;
+    height: 58px;
+    background: rgba(0, 51, 153, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    border-radius: 4px;
+}
+
+
+.Button2 {
+    width: 200px;
+    height: 58px;
+    background: rgba(242, 124, 15, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: white;
+    border-radius: 4px;
+}
+
+
+.Button3 {
+    width: 200px;
+    height: 58px;
+    background: rgba(229, 229, 229, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: black;
+    border-radius: 4px;
+}
+
+
+
+
+.Footer {
+    width: 768px;
+    height: 76px;
+    margin-top: 11px auto;
+    align-items: center;
+    display: flex;
+    font-size: 30px;
+    color: rgba(0, 0, 0, 0.3);
+
+}
+
+
+.footerCounter {
+    width: 112px;
+    height: 51px;
+    align-items: center;
+    display: flex;
+}
+
+
+
+
+.footerCounterIn {
+    font-size: 39px;
+    color: rgba(0, 0, 0, 0.3);
+    margin-top: 17px;
+}
+
+
+
+.img1 {
+    width: 28.12px;
+    height: 28.85px;
+    margin-bottom: 13px;
+}
+
+
+
+.footerLinks {
+    width: 252px;
+    height: 76px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+}
+
+
+.footerLinks1 {
+    width: 87px;
+    height: 19px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+}
+
+
+
+.footerLinks2 {
+    width: 118px;
+    height: 19px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+}
+
+
+
+.footerLinks3 {
+    width: 74px;
+    height: 19px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+}
+
+
+
+.Intocode {
+    width: 169px;
+    height: 19px;
+    margin-left: 490px;
+    text-align: right;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+}
+
+
+
